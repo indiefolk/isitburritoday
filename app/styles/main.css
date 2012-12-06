@@ -1,0 +1,10 @@
+/* Will be compiled down to a single stylesheet with your sass files */
+.hero-unit {
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Pacifico', cursive;
+	color: #e20404;
+	font-size: 120px;
+}
